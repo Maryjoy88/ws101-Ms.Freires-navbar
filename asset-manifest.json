@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-Ms.Freires-navbar/static/css/main.ada550f6.css",
+    "main.js": "/ws101-Ms.Freires-navbar/static/js/main.31c695a8.js",
+    "index.html": "/ws101-Ms.Freires-navbar/index.html",
+    "main.ada550f6.css.map": "/ws101-Ms.Freires-navbar/static/css/main.ada550f6.css.map",
+    "main.31c695a8.js.map": "/ws101-Ms.Freires-navbar/static/js/main.31c695a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ada550f6.css",
+    "static/js/main.31c695a8.js"
+  ]
+}
